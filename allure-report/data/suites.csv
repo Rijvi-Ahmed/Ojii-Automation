@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","18017","login fails with empty email and password","chromium","Sun May 25 16:33:14 GMT+06:00 2025","passed","Sun May 25 16:33:32 GMT+06:00 2025","Login tests","Login.spec.js","",""
+"","17927","login fails with invalid email format","chromium","Sun May 25 16:33:31 GMT+06:00 2025","passed","Sun May 25 16:33:49 GMT+06:00 2025","Login tests","Login.spec.js","",""
+"","22780","user can login successfully with valid credentials","chromium","Sun May 25 16:33:14 GMT+06:00 2025","passed","Sun May 25 16:33:37 GMT+06:00 2025","Login tests","Login.spec.js","",""
+"","17098","login fails with invalid password","chromium","Sun May 25 16:33:14 GMT+06:00 2025","passed","Sun May 25 16:33:31 GMT+06:00 2025","Login tests","Login.spec.js","",""
+"","15839","login fails with invalid email","chromium","Sun May 25 16:33:14 GMT+06:00 2025","passed","Sun May 25 16:33:30 GMT+06:00 2025","Login tests","Login.spec.js","",""
