@@ -2,6 +2,8 @@ import { test, expect } from '@playwright/test';
 import { LoginPage } from '../pages/LoginPage.js';
 import { USER_EMAIL, USER_PASSWORD } from '../utils/Env.js';
 
+
+//Home page
 test.describe('Home page tests', () => {
     test.beforeEach(async ({ page }) => {
         // Login before each test
@@ -23,6 +25,5 @@ test.describe('Home page tests', () => {
         // Add test for navigation functionality
     });
 });
-
 
 
